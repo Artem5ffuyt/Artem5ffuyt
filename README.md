@@ -6,7 +6,7 @@
 - 🏃🏻‍♂️ in my free time I run to my dream
 
 ### Language and tools
-![HTML](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=html&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-00BFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0095b6)
 ![Git](https://img.shields.io/badge/-Git-e54a1c)

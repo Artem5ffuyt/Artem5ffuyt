@@ -6,7 +6,7 @@
 - 🏃🏻‍♂️ in my free time I run to my dream
 
 ### Language and tools
-![flutter](https://img.shields.io/badge/-HTML-FFDF00?style=for-the-badge&logo=HTML)
+![flutter](https://img.shields.io/badge/-HTML-FFDF00)
 
 
 

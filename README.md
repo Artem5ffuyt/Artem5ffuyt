@@ -6,7 +6,7 @@
 - 🏃🏻‍♂️ in my free time I run to my dream
 
 ### Language and tools
-![HTML](https://img.shields.io/badge/-HTML-ff8a5d)
+![HTML](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=html&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-00BFFF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0095b6)
 ![Git](https://img.shields.io/badge/-Git-e54a1c)
@@ -21,6 +21,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Bachynskyi_Artem)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/bachynskyi_artem/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/DobrakavaKiev)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/artem-bachynskyi-868996230/)
 
 
 

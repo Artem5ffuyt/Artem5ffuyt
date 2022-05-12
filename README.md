@@ -17,6 +17,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffbc3b)
 ![React](https://img.shields.io/badge/-React-00bfff)
 
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?
+style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Bachynskyi_Artem)
 
 
 

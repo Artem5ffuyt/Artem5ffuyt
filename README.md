@@ -14,7 +14,7 @@
 ![DOM](https://img.shields.io/badge/-DOM-74a02e)
 ![AJAX](https://img.shields.io/badge/-AJAX-7b68ee)
 ![jQuery](https://img.shields.io/badge/-jQuery-6b7ebf)
-![JavaScript](ttps://img.shields.io/badge/-JavaScript-ffd700?style=for-the-badge&logo=Javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffbc3b)
 ![React](https://img.shields.io/badge/-React-00bfff)
 
 

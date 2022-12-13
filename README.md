@@ -14,9 +14,10 @@
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Bachynskyi_Artem)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/bachynskyi_artem/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=27A0D9)](https://www.instagram.com/bachynskyi_artem/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/DobrakavaKiev)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/artem-bachynskyi-868996230/)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=27A0D9)](https://twitter.com/BacinskijArtem)
 
 
 
